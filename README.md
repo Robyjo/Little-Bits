@@ -5,11 +5,10 @@ Team members include Dahga Muhumed, Nadin Qaqos and Robyn Smith.
 
 
 ## Description
--calendar will show the countdown by each event.
--user can choose time frame on notifications example 1 week out or 3 days out ect.
+The calendar will show the countdown by each event as the user scrolls through the calendar.
+The user can choose time frame on notifications example 1 week out or 3 hours out ect.
 (group activity)
-- Doesn't have to include everything. Can be a quick summary of what our calendar app can be about. 
-
+- Doesn't have to include everything. Can be a quick summary of what our calendar app can be about.
 ## Stackholders and their Interests
 
 (group activity)
